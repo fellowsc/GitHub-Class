@@ -1,4 +1,4 @@
-# thinkful-git-ws
+# Making my first change to the README - Fellows Awesome README file
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
